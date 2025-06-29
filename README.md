@@ -64,5 +64,6 @@ This project provisions a **secure, production-ready AWS infrastructure** using 
 
 ---
 
-
+## KHOMOTSO MASHUPYE- CLOUD SOLUTIONS ARCHITECT
+JUNE 2025
 
